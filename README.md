@@ -1,6 +1,6 @@
 # Aileen Adam
 
-Welcome to my profile! I [teach English](https://www.linkedin.com/in/aileenadam/) at a local university  and I love to [paint, doodle and do other artsy stuff](https://www.instagram.com/doodlingsandthings) in my free-time . Thanks for visiting and I'd love to [connect](aileenfarida@gmail.com)!
+Welcome to my profile! I am a [senior lecturer teaching ESL](https://www.linkedin.com/in/aileenadam/) at a local university  and I love to [paint, doodle and do other artsy stuff](https://www.instagram.com/doodlingsandthings) in my free-time . Thanks for visiting and I'd love to [connect](aileenfarida@gmail.com)!
 
 
 **Research Interests**
