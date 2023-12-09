@@ -4,7 +4,7 @@ Welcome to my profile! I am a [senior lecturer teaching ESL](https://www.linkedi
 
 
 **Research Interests**
-  - ESL, L2 Writing Assessment, Corpus Linguistics, Automated Essay Scoring
+  - ESL, L2 Writing Assessment, Corpus Linguistics
 
 **Education**
 - **Universiti Putra Malaysia**, Teaching English as a Second Language, M.Ed., 2008
