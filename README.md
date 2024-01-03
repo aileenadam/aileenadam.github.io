@@ -1,12 +1,17 @@
 ## Aileen Adam
 
-Welcome to my profile! I am a [senior lecturer teaching ESL](https://www.linkedin.com/in/aileenadam/) at a local university  and I love to [paint, doodle and do other artsy stuff](https://www.instagram.com/doodlingsandthings) in my free-time . Thanks for visiting and I'd love to [connect](aileenfarida@gmail.com)!
 
+**Contact**
+
+<p>🌐 <a href="https://www.linkedin.com/in/aileenadam/">LinkedIn Profile</a></p>
+<p>💻 <a href="https://github.com/aileenadam">GitHub Profile</a></p>
+<p>✉️ <a href="mailto:aileenfarida@gmail.com">Email Me</a></p>
 
 **Research Interests**
-  - ESL, L2 Writing Assessment, Corpus Linguistics
+  - L2 Writing Assessment, Corpus Linguistics, Technology in Education
 
 **Education**
+
 - **Universiti Putra Malaysia**, Teaching English as a Second Language, M.Ed., 2008
 - **Universiti Teknologi Malaysia**, Teaching English as Second Language, B.Sc. with Edu. 2006
 
@@ -25,8 +30,10 @@ Welcome to my profile! I am a [senior lecturer teaching ESL](https://www.linkedi
 
 **Honours & Awards**
 
-- Malaysian-American Commission on Educational Exchange Grant Recipient (2023)
-- E-Teacher Scholarship Recipient, American English Institute, University of Oregon (Spring 2012)
-- Fulbright Foreign Language Teaching Assistant Grant Recipient, attached to Northern Illinois University (Fall 2009-Spring 2010)
-- Yayasan Biasiswa Tunku Abdul Rahman Master Degree Scholarship Recipient (2007-2008)
-- Malaysian Ministry of Education Bachelor's Degree Scholarship Recipient (2001-2006)
+- 2023 Malaysian-American Committee of Educational Exchange (MACEE) Fulbright grant
+- 2012 E-Teacher program - ESP Best Practices Scholar-ship, University of Oregon
+- 2009—2010 Fulbright Foreign Language Teaching Assistant program, Northern Illinois University
+- 2007-2008 YBSTAR Scholarship recipient, Faculty of Education, Universiti Putra Malaysia
+- 2001-2006 Ministry of Education Scholarship, Faculty of Education, Universiti Teknologi Malaysia
+
+<p> Last updated: January 2024</p>
