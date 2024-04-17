@@ -8,7 +8,7 @@
 <p>✉️ <a href="mailto:aileenfarida@gmail.com">Email Me</a></p>
 
 **Research Interests**
-  - L2 Writing Assessment, Corpus Linguistics, Technology in Education
+  - L2 Writing Assessment, Technology in Education
 
 **Education**
 
